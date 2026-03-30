@@ -1,0 +1,1 @@
+ await Deno.readTextFile("./learn-dsa/src/bst.rs")
